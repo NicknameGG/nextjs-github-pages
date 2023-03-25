@@ -4,7 +4,7 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-  basePath: '/soporte-telmex-page',
+  basePath: '/nextjs-github-pages',
 }
 
 module.exports = nextConfig
